@@ -21,3 +21,5 @@
 // #define USE_I2C
 
 // #define MASTER_RIGHT
+#define RGBLIGHT_LAYERS
+#define RGBLIGHT_LAYER_BLINK
